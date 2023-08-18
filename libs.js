@@ -1,4 +1,5 @@
-/** cors 跨網域設定 */
+/** cors 跨網域設定 2 */
+// add
 const headers = {
   // Headers允許的資訊 Content-Type, Authorization, Content-Length, X-Requested-With
   'Access-Control-Allow-Headers': 'Content-Type, Authorization, Content-Length, X-Requested-With',
